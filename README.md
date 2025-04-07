@@ -4,7 +4,7 @@ This project is a simple **Node.js** web application built from scratch and inte
 
 ---
 
-## ✅ What We Did
+## ✅ What I Did
 
 ### 1. Set up the Project Locally
 - Installed Node.js and npm on Windows 10.
